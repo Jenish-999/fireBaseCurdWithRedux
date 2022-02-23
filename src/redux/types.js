@@ -1,0 +1,7 @@
+export const action_types = {
+    REGISTER_USER : "REGISTER_USER",
+    UPDATE_USER : "UPDATE_USER",
+    DELETE_USER : "DELETE_USER",
+    VIEW_USER : "VIEW_USER",
+    DISPLAY_USER : "DISPLAY_USER"
+}
